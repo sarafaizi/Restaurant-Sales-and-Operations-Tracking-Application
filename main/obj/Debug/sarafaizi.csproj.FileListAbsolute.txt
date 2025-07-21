@@ -1,0 +1,42 @@
+C:\Users\Beykent\Desktop\proje görsel programlama\sarafaizi\sarafaizi\bin\Debug\sarafaizi.exe.config
+C:\Users\Beykent\Desktop\proje görsel programlama\sarafaizi\sarafaizi\bin\Debug\sarafaizi.exe
+C:\Users\Beykent\Desktop\proje görsel programlama\sarafaizi\sarafaizi\bin\Debug\sarafaizi.pdb
+C:\Users\Beykent\Desktop\proje görsel programlama\sarafaizi\sarafaizi\obj\Debug\sarafaizi.csproj.AssemblyReference.cache
+C:\Users\Beykent\Desktop\proje görsel programlama\sarafaizi\sarafaizi\obj\Debug\sarafaizi.Form1.resources
+C:\Users\Beykent\Desktop\proje görsel programlama\sarafaizi\sarafaizi\obj\Debug\sarafaizi.Properties.Resources.resources
+C:\Users\Beykent\Desktop\proje görsel programlama\sarafaizi\sarafaizi\obj\Debug\sarafaizi.csproj.GenerateResource.cache
+C:\Users\Beykent\Desktop\proje görsel programlama\sarafaizi\sarafaizi\obj\Debug\sarafaizi.csproj.CoreCompileInputs.cache
+C:\Users\Beykent\Desktop\proje görsel programlama\sarafaizi\sarafaizi\obj\Debug\sarafaizi.exe
+C:\Users\Beykent\Desktop\proje görsel programlama\sarafaizi\sarafaizi\obj\Debug\sarafaizi.pdb
+E:\SARAFAIZI\proje görsel programlama\sarafaizi\sarafaizi\bin\Debug\sarafaizi.exe.config
+E:\SARAFAIZI\proje görsel programlama\sarafaizi\sarafaizi\bin\Debug\sarafaizi.exe
+E:\SARAFAIZI\proje görsel programlama\sarafaizi\sarafaizi\bin\Debug\sarafaizi.pdb
+E:\SARAFAIZI\proje görsel programlama\sarafaizi\sarafaizi\obj\Debug\sarafaizi.csproj.AssemblyReference.cache
+E:\SARAFAIZI\proje görsel programlama\sarafaizi\sarafaizi\obj\Debug\sarafaizi.Form1.resources
+E:\SARAFAIZI\proje görsel programlama\sarafaizi\sarafaizi\obj\Debug\sarafaizi.Form2.resources
+E:\SARAFAIZI\proje görsel programlama\sarafaizi\sarafaizi\obj\Debug\sarafaizi.Properties.Resources.resources
+E:\SARAFAIZI\proje görsel programlama\sarafaizi\sarafaizi\obj\Debug\sarafaizi.csproj.GenerateResource.cache
+E:\SARAFAIZI\proje görsel programlama\sarafaizi\sarafaizi\obj\Debug\sarafaizi.csproj.CoreCompileInputs.cache
+E:\SARAFAIZI\proje görsel programlama\sarafaizi\sarafaizi\obj\Debug\sarafaizi.exe
+E:\SARAFAIZI\proje görsel programlama\sarafaizi\sarafaizi\obj\Debug\sarafaizi.pdb
+E:\SARAFAIZI\proje görsel programlama\sarafaizi\sarafaizi\obj\Debug\sarafaizi.Form3.resources
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\bin\Debug\sarafaizi.exe.config
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\bin\Debug\sarafaizi.exe
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\bin\Debug\sarafaizi.pdb
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\obj\Debug\sarafaizi.csproj.AssemblyReference.cache
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\obj\Debug\sarafaizi.Form1.resources
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\obj\Debug\sarafaizi.Form2.resources
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\obj\Debug\sarafaizi.Form3.resources
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\obj\Debug\sarafaizi.Properties.Resources.resources
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\obj\Debug\sarafaizi.csproj.GenerateResource.cache
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\obj\Debug\sarafaizi.csproj.CoreCompileInputs.cache
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\obj\Debug\sarafaizi.exe
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\obj\Debug\sarafaizi.pdb
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\obj\Debug\sarafaizi.Form4.resources
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\obj\Debug\sarafaizi.Form5.resources
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\obj\Debug\sarafaizi.Form6.resources
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\obj\Debug\sarafaizi.Form7.resources
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\obj\Debug\sarafaizi.Form8.resources
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\obj\Debug\sarafaizi.Form9.resources
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\obj\Debug\sarafaizi.Form10.resources
+C:\Users\setar\OneDrive\Desktop\görselsara\sarafaizi\sarafaizi\obj\Debug\sarafaizi.Form11.resources
