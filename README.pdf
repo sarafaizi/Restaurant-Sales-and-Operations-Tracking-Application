@@ -1,23 +1,20 @@
-# Restoran Satış ve Operasyon Takip Uygulaması
+Restaurant Sales and Operations Tracking Application
+Description
+This application is a comprehensive management system that brings together front‑of‑house and back‑of‑house workflows for cafés and restaurants on a single platform. It covers the creation, updating, and tracking of dine‑in, take‑out, and delivery orders; table assignments and bill splitting; a real‑time sales dashboard with exportable reports; inventory monitoring with low‑stock alerts; staff roles and shift scheduling with clock‑in/clock‑out records; and customer profile management, purchase history tracking, and loyalty point programs—consolidating all critical modules in one place.
 
-## Açıklama
-Bu uygulama, kafeler ve restoranlar için ön ve arka ofis iş akışlarını tek bir platformda birleştiren kapsamlı bir yönetim sistemidir. Salon içi, paket ve servis siparişlerinin oluşturulması, güncellenmesi ve takibi; masaların atanması ve hesapların bölünmesi; gerçek zamanlı satış panosu ve dışa aktarılabilir raporlar; stok seviyeleri takibi ve düşük stok uyarıları; personel rolleri, vardiya takvimleri ve giriş‑çıkış kayıtları; ayrıca müşteri profilleri, satın alma geçmişi ve sadakat puanları yönetimi gibi tüm kritik modülleri bir arada sunar.
+Features
+Order & Table Management
+Create, update, and track dine‑in, take‑out, and delivery orders; assign tables; split bills.
 
-## Özellikler
-- **Sipariş & Masa Yönetimi**  
-  Dine‑in, paket ve servis siparişlerini oluşturma, güncelleme, takip; masaları atama; hesap bölme.
-- **Satış & Raporlama**  
-  Gerçek zamanlı satış panosu; günlük, haftalık ve aylık raporlar; CSV/Excel dışa aktarımı.
-- **Envanter Kontrolü**  
-  Stok seviyelerini izleme; düşük stok uyarıları; malzeme kullanım raporları.
-- **Personel & Vardiya Planlama**  
-  Personel rollerini atama; vardiya takvimleri; giriş‑çıkış (clock‑in/out) kayıtları.
-- **Müşteri Profilleri & Sadakat**  
-  Müşteri bilgileri; satın alma geçmişi; puan/ödül sistemi.
+Sales & Reporting
+Real‑time sales dashboard; daily, weekly, and monthly reports; CSV/Excel export.
 
-## Kurulum
-1. Depoyu klonlayın:  
-   ```bash
-   git clone https://github.com/kullanici/restaurant-yonetim.git
-   cd restaurant-yonetim
+Inventory Control
+Monitor stock levels; issue low‑stock alerts; generate ingredient usage reports.
+
+Staff & Shift Scheduling
+Assign staff roles; manage shift calendars; record clock‑in/clock‑out events.
+
+Customer Profiles & Loyalty
+Manage customer information; track purchase history; maintain loyalty/rewards programs.
 
