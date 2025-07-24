@@ -17,5 +17,7 @@ Assign staff roles; manage shift calendars; record clock‑in/clock‑out events
 
 Customer Profiles & Loyalty
 Manage customer information; track purchase history; maintain loyalty/rewards programs.
+
+
 [İnfo.pdf](https://github.com/user-attachments/files/21419071/Info.pdf)
 
